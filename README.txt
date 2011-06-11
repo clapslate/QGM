@@ -19,3 +19,6 @@ With each hit, you score 1 point and the zombies start moving faster across the 
 With each miss, you lose 3 points.
 Score enough points to get listed on the high-score board.
 
+
+Make sure that the Scores.txt is in the same folder as QGM.exe
+
