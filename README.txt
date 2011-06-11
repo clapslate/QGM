@@ -1,3 +1,24 @@
+QuickGun Murugan
+Developed by: Mohit Gvalani
+Email: mohitindubai@gmail.com
+Copyright © 2009, Mohit Gvalani
+
+License Agreement:
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+
+Description:
 QuickGun Murugan is a PC based game. 
 It has been tested on Windows XP. Works on almost any PC that can support and has Windows XP.
 It does not work on Windows Vista or higher.
